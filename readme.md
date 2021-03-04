@@ -6,7 +6,7 @@
 Проводилось "функциональное" тестирование
 
 ## Результаты
- 1.[В новом куске кода результат сложения неверный](https://github.com/RomanMachnev/Precision/issues/1)
+ 1.[Приложение Precision выдаёт не верный результат подсчёта бонусов](https://github.com/RomanMachnev/Precision/issues/1)
  
  
 ## Общие рекомендации
